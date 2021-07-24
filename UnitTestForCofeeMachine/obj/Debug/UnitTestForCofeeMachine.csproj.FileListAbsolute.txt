@@ -1,0 +1,17 @@
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\UnitTestForCofeeMachine.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\UnitTestForCofeeMachine.pdb
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\CoffeMachine.exe
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\CoffeMachine.pdb
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\CoffeMachine.exe.config
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\obj\Debug\UnitTestForCofeeMachine.csprojAssemblyReference.cache
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\obj\Debug\UnitTestForCofeeMachine.csproj.CoreCompileInputs.cache
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\obj\Debug\UnitTestForCofeeMachine.csproj.CopyComplete
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\obj\Debug\UnitTestForCofeeMachine.dll
+C:\TFS\CoffeMachine\UnitTestForCofeeMachine\obj\Debug\UnitTestForCofeeMachine.pdb

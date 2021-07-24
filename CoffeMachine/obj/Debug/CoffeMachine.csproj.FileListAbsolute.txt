@@ -1,0 +1,14 @@
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.csprojAssemblyReference.cache
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.csproj.CoreCompileInputs.cache
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.exe
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.pdb
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\chetan.lathi\source\repos\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.pdb
+C:\TFS\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\TFS\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.exe
+C:\TFS\CoffeMachine\CoffeMachine\bin\Debug\CoffeMachine.pdb
+C:\TFS\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.csproj.CoreCompileInputs.cache
+C:\TFS\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\TFS\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.pdb
+C:\TFS\CoffeMachine\CoffeMachine\obj\Debug\CoffeMachine.csprojAssemblyReference.cache
