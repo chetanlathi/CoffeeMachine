@@ -19,6 +19,9 @@ namespace CoffeMachine
             Thread.Sleep(2000);
             Console.WriteLine("!!!!! Your drink is reday !!!!!!!!");
             Console.WriteLine();
+            Console.WriteLine("====================================================");
+            Console.WriteLine("Total Beans : " + CoffeMachineBase.TotalBeans + " Total Milk : " + CoffeMachineBase.TotalMilk);
+            Console.WriteLine("====================================================");
             Console.WriteLine("Please select the Coffee you like to have ...");
             Console.WriteLine("Enter 1 for Cappuccino...");
             Console.WriteLine("Enter 2 for Latte...");
